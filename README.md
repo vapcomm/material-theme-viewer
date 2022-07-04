@@ -6,3 +6,5 @@ or Material Theme Builder: https://material-foundation.github.io/material-theme-
 
 Export Jetpack Compose Theme.kt and replace theme files in ui/theme, build and run app on emulator or device
 to see new color scheme in the real life.
+
+![Light colors scheme example](colors-scheme-light.png)
